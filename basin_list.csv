@@ -1,0 +1,287 @@
+County,State,Basin
+UNION,AR,Haynesville
+COLUSA,CA,West Coast
+KERN,CA,West Coast
+LOS ANGELES,CA,West Coast
+ADAMS,CO,DJ Basin
+ARAPAHOE,CO,DJ Basin
+BROOMFIELD,CO,DJ Basin
+GARFIELD,CO,Piceance
+RIO BLANCO,CO,Piceance
+WELD,CO,DJ Basin
+BARBER,KS,Sedgwick
+BARTON,KS,Sedgwick
+BUTLER,KS,Sedgwick
+DECATUR,KS,DJ Basin
+ELLIS,KS,Sedgwick
+GOVE,KS,DJ Basin
+HAMILTON,KS,Anadarko
+LOGAN,KS,Anadarko
+MEADE,KS,Anadarko
+NESS,KS,Anadarko
+RAWLINS,KS,DJ Basin
+RUSH,KS,Sedgwick
+STAFFORD,KS,Sedgwick
+THOMAS,KS,DJ Basin
+TREGO,KS,Sedgwick
+BEAUREGARD,LA,Gulf Coast
+BIENVILLE,LA,Haynesville
+BOSSIER,LA,Haynesville
+CADDO,LA,Haynesville
+CLAIBORNE,LA,Haynesville
+DE SOTO,LA,Haynesville
+NATCHITOCHES,LA,Haynesville
+POINTE COUPEE,LA,Tuscaloosa
+RAPIDES,LA,Tuscaloosa
+RED RIVER,LA,Haynesville
+SABINE,LA,Haynesville
+VERMILION,LA,Gulf Coast
+EUGENE IS. OFFSHORE,LA,Gulf Coast
+SOUTH PASS OFFSHORE,LA,Gulf Coast
+MAIN PASS OFFSHORE,LA,Gulf Coast
+KALAMAZOO,MI,Michigan
+AMITE,MS,Mississippi
+JONES,MS,Mississippi
+PERRY,MS,Mississippi
+WILKINSON,MS,Mississippi
+ROOSEVELT,MT,Bakken
+DUNDY,NE,DJ Basin
+HITCHCOCK,NE,DJ Basin
+KIMBALL,NE,DJ Basin
+WHITE PINE,NV,West Coast
+EDDY,NM,Permian - Delaware
+LEA,NM,Permian - Delaware
+SAN JUAN,NM,San Juan
+CATTARAUGUS,NY,Northeast
+DIVIDE,ND,Bakken
+DUNN,ND,Bakken
+MCKENZIE,ND,Bakken
+MOUNTRAIL,ND,Bakken
+WILLIAMS,ND,Bakken
+BELMONT,OH,Northeast
+CARROLL,OH,Northeast
+COLUMBIANA,OH,Northeast
+HARRISON,OH,Northeast
+JEFFERSON,OH,Northeast
+NOBLE,OH,Northeast
+BLAINE,OK,Anadarko
+CADDO,OK,Anadarko
+CANADIAN,OK,Anadarko
+COAL,OK,Arkoma
+CUSTER,OK,Anadarko
+DEWEY,OK,Anadarko
+ELLIS,OK,Anadarko
+GARVIN,OK,Anadarko
+GRADY,OK,Anadarko
+KINGFISHER,OK,Anadarko
+LINCOLN,OK,Arkoma
+LOVE,OK,Anadarko
+MCCLAIN,OK,Anadarko
+MAJOR,OK,Anadarko
+PITTSBURG,OK,Arkoma
+PONTOTOC,OK,Arkoma
+STEPHENS,OK,Anadarko
+WOODWARD,OK,Anadarko
+ARMSTRONG,PA,Northeast
+BRADFORD,PA,Northeast
+CAMERON,PA,Northeast
+ELK,PA,Northeast
+GREENE,PA,Northeast
+LYCOMING,PA,Northeast
+SULLIVAN,PA,Northeast
+SUSQUEHANNA,PA,Northeast
+TIOGA,PA,Northeast
+WASHINGTON,PA,Northeast
+ANDREWS,TX,Permian - Midland
+ANGELINA,TX,Haynesville
+BORDEN,TX,Permian - Midland
+BRAZOS,TX,Eagleford
+BURLESON,TX,Eagleford
+CASS,TX,Haynesville
+CHAMBERS,TX,Gulf Coast
+CHEROKEE,TX,Haynesville
+CLAY,TX,Barnett
+COLORADO,TX,Gulf Coast
+CRANE,TX,Permian - Midland
+CULBERSON,TX,Permian - Delaware
+DAWSON,TX,Permian - Midland
+DEWITT,TX,Eagleford
+DIMMIT,TX,Eagleford
+DUVAL,TX,Gulf Coast
+ECTOR,TX,Permian - Midland
+FAYETTE,TX,Eagleford
+FISHER,TX,Barnett
+FRIO,TX,Eagleford
+GAINES,TX,Permian - Midland
+GLASSCOCK,TX,Permian - Midland
+GONZALES,TX,Eagleford
+HARRISON,TX,Haynesville
+HARTLEY,TX,Anadarko
+HASKELL,TX,Barnett
+HEMPHILL,TX,Anadarko
+HOWARD,TX,Permian - Midland
+HUDSPETH,TX,Permian - Delaware
+IRION,TX,Permian - Midland
+JACK,TX,Barnett
+JIM HOGG,TX,Gulf Coast
+KARNES,TX,Eagleford
+KENEDY,TX,Gulf Coast
+KENT,TX,Barnett
+KING,TX,Barnett
+KNOX,TX,Barnett
+LA SALLE,TX,Eagleford
+LIBERTY,TX,Gulf Coast
+LIVE OAK,TX,Eagleford
+LOVING,TX,Permian - Delaware
+MADISON,TX,Eagleford
+MARTIN,TX,Permian - Midland
+MATAGORDA,TX,Gulf Coast
+MIDLAND,TX,Permian - Midland
+MOORE,TX,Anadarko
+NEWTON,TX,Austin Chalk
+NUECES,TX,Gulf Coast
+ORANGE,TX,Gulf Coast
+PANOLA,TX,Haynesville
+PECOS,TX,Permian - Delaware
+POLK,TX,Austin Chalk
+REAGAN,TX,Permian - Midland
+REEVES,TX,Permian - Delaware
+REFUGIO,TX,Gulf Coast
+ROBERTS,TX,Anadarko
+ROBERTSON,TX,Eagleford
+SAN AUGUSTINE,TX,Haynesville
+SCURRY,TX,Permian - Midland
+SHACKELFORD,TX,Barnett
+STARR,TX,Gulf Coast
+TARRANT,TX,Barnett
+TERRY,TX,Permian - Midland
+TYLER,TX,Austin Chalk
+UPTON,TX,Permian - Midland
+VICTORIA,TX,Gulf Coast
+WARD,TX,Permian - Delaware
+WASHINGTON,TX,Eagleford
+WEBB,TX,Eagleford
+WILSON,TX,Eagleford
+WINKLER,TX,Permian - Delaware
+WISE,TX,Barnett
+WOOD,TX,Haynesville
+YOAKUM,TX,Permian - Midland
+ZAPATA,TX,Gulf Coast
+DUCHESNE,UT,Uintah
+UINTAH,UT,Uintah
+BROOKE,WV,Northeast
+HARRISON,WV,Northeast
+LEWIS,WV,Northeast
+MARSHALL,WV,Northeast
+MONONGALIA,WV,Northeast
+TYLER,WV,Northeast
+WETZEL,WV,Northeast
+WETZEL,WV,Northeast
+CAMPBELL,WY,Powder River
+CONVERSE,WY,Powder River
+GOSHEN,WY,DJ Basin
+JOHNSON,WY,Powder River
+LARAMIE,WY,DJ Basin
+SUBLETTE,WY,Green River
+BEECHEY POINT,AK,North Slope
+HARRISON BAY,AK,North Slope
+ALAMINOS CANYON,GOM,Offshore
+EWING BANK,GOM,Offshore
+GREEN CANYON,GOM,Offshore
+KEATHLEY CANYON,GOM,Offshore
+MISSISSIPPI CANYON,GOM,Offshore
+VIOSCA KNOLL,GOM,Offshore
+WALKER RIDGE,GOM,Offshore
+CHEYENNE,KS,DJ Basin
+FORD,KS,Anadarko
+GREELEY,KS,Anadarko
+HASKELL,KS,Anadarko
+KINGMAN,KS,Sedgwick
+SCOTT,KS,Anadarko
+CALCASIEU,LA,Gulf Coast
+ST. MARTIN,LA,Tuscaloosa
+UNION,LA,Haynesville
+VERNON,LA,Tuscaloosa
+CLARE,MI,Michigan
+GLADWIN,MI,Michigan
+GREENE,MS,Mississippi
+JASPER,MS,Mississippi
+RICHLAND,MT,Bakken
+FRANKLIN,NE,DJ Basin
+GARDEN,NE,DJ Basin
+KEARNEY,NE,DJ Basin
+CHAVES,NM,Permian - Delaware
+SANDOVAL,NM,San Juan
+ATOKA,OK,Arkoma
+CARTER,OK,Anadarko
+POTTAWATOMIE,OK,Arkoma
+BUTLER,PA,Northeast
+WYOMING,PA,Northeast
+ATASCOSA,TX,Eagleford
+CALHOUN,TX,Gulf Coast
+COTTLE,TX,Barnett
+CROCKETT,TX,Permian - Midland
+DALLAS,TX,Barnett
+DICKENS,TX,Barnett
+GOLIAD,TX,Gulf Coast
+HARDEMAN,TX,Barnett
+JIM WELLS,TX,Gulf Coast
+JONES,TX,Barnett
+LAVACA,TX,Eagleford
+LIPSCOMB,TX,Anadarko
+MCMULLEN,TX,Eagleford
+OCHILTREE,TX,Anadarko
+RUSK,TX,Haynesville
+SCHLEICHER,TX,Permian - Midland
+SHERMAN,TX,Anadarko
+STONEWALL,TX,Barnett
+GALVESTON-LB,TX,Gulf Coast
+GARDEN BANKS,GOM,Offshore
+CONECUH,AL,Tuscaloosa
+ELLSWORTH,KS,Sedgwick
+NORTON,KS,DJ Basin
+OSBORNE,KS,Sedgwick
+ROOKS,KS,DJ Basin
+ARENAC,MI,Michigan
+BILLINGS,ND,Bakken
+MERCER,ND,Bakken
+AUSTIN,TX,Austin Chalk
+GALVESTON,TX,Gulf Coast
+HARDIN,TX,Gulf Coast
+HOUSTON,TX,Austin Chalk
+JASPER,TX,Gulf Coast
+WILBARGER,TX,Barnett
+RITCHIE,WV,Northeast
+CROOK,WY,Powder River
+LAFAYETTE,AR,Haynesville
+FINNEY,KS,Anadarko
+LANE,KS,Anadarko
+SEWARD,KS,Anadarko
+WALLACE,KS,Anadarko
+WICHITA,KS,Anadarko
+WEST DELTA OFFSHORE,LA,Offshore
+GRAYSON,TX,Barnett
+HOCKLEY,TX,Permian - Midland
+LA PLATA,CO,San Juan
+CLARK,KS,Anadarko
+IOSCO,MI,Michigan
+ADAMS,MS,Mississippi
+JOHNSTON,OK,Anadarko
+CLARION,PA,Northeast
+COCHRAN,TX,Permian - Midland
+GARZA,TX,Permian - Midland
+GREGG,TX,Haynesville
+RUNNELS,TX,Permian - Midland
+SHELBY,TX,Haynesville
+MILLER,AR,Haynesville
+EAST BREAKS,GOM,Offshore
+COWLEY,KS,Sedgwick
+HODGEMAN,KS,Anadarko
+SUMNER,KS,Sedgwick
+JEFFERSON,LA,Gulf Coast
+ISABELLA,MI,Michigan
+HUGHES,OK,Arkoma
+LOGAN,OK,Anadarko
+PAYNE,OK,Cherokee
+BEAVER,PA,Northeast
+YOUNG,TX,Barnett
